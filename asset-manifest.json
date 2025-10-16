@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.3be47743.css",
-    "main.js": "/static/js/main.c6762936.js",
-    "index.html": "/index.html",
-    "main.3be47743.css.map": "/static/css/main.3be47743.css.map",
-    "main.c6762936.js.map": "/static/js/main.c6762936.js.map"
+    "main.css": "/chronometre/static/css/main.3be47743.css",
+    "main.js": "/chronometre/static/js/main.b2d31bf9.js",
+    "index.html": "/chronometre/index.html",
+    "main.3be47743.css.map": "/chronometre/static/css/main.3be47743.css.map",
+    "main.b2d31bf9.js.map": "/chronometre/static/js/main.b2d31bf9.js.map"
   },
   "entrypoints": [
     "static/css/main.3be47743.css",
-    "static/js/main.c6762936.js"
+    "static/js/main.b2d31bf9.js"
   ]
 }
