@@ -1,0 +1,103 @@
+.bouton-stop {
+  background-color: #FF0000;
+}
+
+.bouton-lap {
+  background-color: #00FFFF;
+}
+
+.bouton-reset {
+  background-color: #666666;
+}
+
+.bouton-resume {
+  background-color: #FF9900;
+}
+
+.config button {
+  padding: 1rem;
+  border-radius: 5px;
+  font-family: "Segoe UI";
+  font-weight: 600;
+  cursor: pointer;
+  font-size: 1.2rem;
+  background-color: lime;
+}
+
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modal-content {
+  background-color: white;
+  padding: 30px;
+  border-radius: 12px;
+  width: 320px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  text-align: center;
+}
+
+.modal-inputs {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.modal-inputs label {
+  font-weight: bold;
+}
+
+.modal-inputs input {
+  width: 100px;
+  padding: 8px;
+  font-size: 16px;
+  margin: 0 auto;
+}
+
+.modal-actions {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.btn-save {
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: 'Segoe UI';
+  background-color: lime;
+  color: black;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-cancel {
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: 'Segoe UI';
+  background-color: red;
+  color: black;
+  font-family: 'Segoe UI';
+  padding: 8px 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.time-display {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #0add26;
+}

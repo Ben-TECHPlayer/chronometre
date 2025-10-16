@@ -1,0 +1,51 @@
+main{
+  text-align: center;
+  margin-top: 10%;
+}
+
+main button{
+  border: none;
+}
+
+.temps{
+  font-size: 2rem;
+  margin-top: 4rem
+}
+
+.debut, .encours, .fin{
+  margin-top: 2rem;
+}
+
+.tours{
+  margin-top: 3rem;
+}
+
+.debut button{
+  padding: 1rem;
+  border-radius: 5px;
+  font-family: "Segoe UI";
+  font-size: 1.2rem;
+  font-weight: 600;
+  background-color: lime;
+}
+
+.encours button, .fin button{
+  padding: 1rem;
+  border-radius: 5px;
+  font-family: "Segoe UI";
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 0 1rem 0 0;
+}
+
+.bouton-stop, .bouton-reset {
+  background-color: #FF0000;
+}
+
+.bouton-lap {
+  background-color: #00FFFF;
+}
+
+.bouton-resume {
+  background-color: lime;
+}
