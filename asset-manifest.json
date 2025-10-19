@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/chronometre/static/css/main.3be47743.css",
+    "main.css": "/chronometre/static/css/main.5fdbd9ad.css",
     "main.js": "/chronometre/static/js/main.cfc80b23.js",
     "index.html": "/chronometre/index.html",
-    "main.3be47743.css.map": "/chronometre/static/css/main.3be47743.css.map",
+    "main.5fdbd9ad.css.map": "/chronometre/static/css/main.5fdbd9ad.css.map",
     "main.cfc80b23.js.map": "/chronometre/static/js/main.cfc80b23.js.map"
   },
   "entrypoints": [
-    "static/css/main.3be47743.css",
+    "static/css/main.5fdbd9ad.css",
     "static/js/main.cfc80b23.js"
   ]
 }
